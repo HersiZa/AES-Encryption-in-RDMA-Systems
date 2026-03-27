@@ -6,11 +6,11 @@ This repository/archive contains the non-proprietary supplementary material asso
 
 ## Contents
 
-- `Plot_data_DEBS.ipynb`  
+- `Supplemental_Material_Plot_data_DEBS`  
   Jupyter notebook containing the available plotting code and result data used to generate the figures included in the paper.
 
 - `README.md`  
-  This document, describing the contents and limitations of the supplementary material.
+  This document describes the contents and limitations of the supplementary material.
 
 ## Purpose
 
