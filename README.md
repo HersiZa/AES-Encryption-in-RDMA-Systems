@@ -6,11 +6,14 @@ This repository/archive contains the non-proprietary supplementary material asso
 
 ## Contents
 
+- `README.md`  
+  This document describes the contents and limitations of the supplementary material.
+
 - `Supplemental_Material_Plot_data_DEBS`  
   Jupyter notebook containing the available plotting code and result data used to generate the figures included in the paper.
 
-- `README.md`  
-  This document describes the contents and limitations of the supplementary material.
+- `figure8_packet_loss_throughput_data.csv`  
+  CSV file containing the raw data used by the notebook to generate the packet-loss-throughput plot for Figure 8.
 
 ## Purpose
 
@@ -42,12 +45,8 @@ This supplementary package supports reproducibility **to the extent permitted by
 - the plotting workflow for the included figures
 - the mapping between the notebook outputs and the figures reported in the paper
 
-However, it does **not** enable full end-to-end reproduction of the system implementation, since the proprietary switch-side implementation cannot be released.
-
-## Mapping to the paper
-
-The notebook corresponds to the available figures reported in the evaluation section of the paper.  
+However, it does **not** fully enable full end-to-end reproduction of the system implementation, since the proprietary switch-side implementation cannot be released.
 
 ## Notes
 
-The evaluation in the paper is based on the setups, metrics, and tools described in the main manuscript, including throughput, packet loss, and latency measurements across baseline and experimental configurations.
+The evaluation in the paper is based on the setups, metrics, and tools described in the main manuscript, including throughput and packet loss across baseline and experimental configurations.
