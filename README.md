@@ -47,7 +47,6 @@ However, it does **not** enable full end-to-end reproduction of the system imple
 ## Mapping to the paper
 
 The notebook corresponds to the available figures reported in the evaluation section of the paper.  
-One figure is omitted because the underlying proprietary Saab-owned artifact is not available for public release.
 
 ## Notes
 
